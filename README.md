@@ -3,7 +3,7 @@ This is a web app that allows users to sign in to their Spotify account, and it 
 ## Setup Instructions
 
 # Demo Video (contains setup instructions at the end)
-[Demo]([www.youtube.com](https://drive.google.com/file/d/1RY6izJ674J_X9eXJqKdnR4L-CV3jmQ-6/view))
+[Demo](https://drive.google.com/file/d/1RY6izJ674J_X9eXJqKdnR4L-CV3jmQ-6/view)
 
 ### 1. Setting up the Spotify App
 First, make sure you have a Spotify account. Sign in to https://developer.spotify.com and click on the dashboard, and create an app. Give it any name and description you want 
